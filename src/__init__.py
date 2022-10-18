@@ -27,5 +27,11 @@ def create_app(test_config=None):
     from . import db
     db.init_app(app)
 
+
+    # uhc employer data
+    @app.route('/')
+    def welcome():
+        return { 'message': 'Welcome to UHC' }
+
     app.register_blueprint(employer)
     return app

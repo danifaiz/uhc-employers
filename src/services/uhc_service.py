@@ -1,4 +1,3 @@
-from xml.etree.ElementInclude import include
 import requests
 import json
 import os
@@ -11,7 +10,7 @@ def fetch_uhc_employers():
     url = "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/"
     response = requests.get(url)
     data = []
-    
+
     if response.status_code == 200:
         employers = json.loads(response.text)["blobs"]
         for index in range(len(employers)):
