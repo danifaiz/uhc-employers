@@ -5,7 +5,7 @@ API structured to fetch and search employers by Name & EIN.
 ## Dependencies
 
 - [flask](https://palletsprojects.com/p/flask/): Python server of choise
-- [requests]
+- [requests](https://pypi.org/project/requests/)
 
 ## Set Up
 
