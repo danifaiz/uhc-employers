@@ -1230,5 +1230,1253 @@
         }
       }
     ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "582062577",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_1st-America-Home-Medical-Equipment_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "362542295",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE/UBH",
+            "plan_id": "751708059",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "POS CHOICE PLUS",
+            "plan_id": "020694131",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2020-Companies-LLC_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+        }
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "CHOICE EPO (50-E)",
+            "plan_id": "020694131",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2020-Companies-LLC_CHOICE-EPO-50-E_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "421319422",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "844995483",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2083-THERAPY-LLC-DBA-APEX_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "834574525",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_212-MOTORS-LLC_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "481240118",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare EPO",
+            "plan_id": "461859541",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-EPO-1169555_A2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-EPO-1169549_C1_in-network-rates.json.gz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "800584924",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE/UBH",
+            "plan_id": "463278424",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "463278424",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare EPO",
+            "plan_id": "464979937",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-EPO-1169555_A2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-EPO-1169549_C1_in-network-rates.json.gz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "UMR, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "22ND CENTURY TECHNOLOGIES, INC. GROUP HEALTH BENEFIT PLAN",
+            "plan_id": "223502121",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_TENET-IN-MICHIGAN_UNITEDHEALTHCARE-CHOICE-PLUS_-TNT_0LQA_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_TENET-IN-MICHIGAN_UNITEDHEALTHCARE-CHOICE-PLUS_-TNT_0L_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_22ND-CENTURY-TECHNOLOGIES-INC-GROUP-HEALTH-BENEFIT-PLAN_22ND-CENTURY-TECHNOLOGIES-INC-GROUP-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "202659439",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_231-CONCEPTS-LLC_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC NAVIGATE UBH",
+            "plan_id": "460924952",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_GIL-15_S8_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "460924952",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "203400109",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_24-7-RESTORATION-INC_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "391551794",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_24-HOUR-HOME-COMFORT-SERVICES_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "751532918",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_24-HOUR-LTD_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "273459195",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_240-TUTORING-INC_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "UMR, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "2428392 INC DBA FYE HEALTH CARE BENEFITS PLAN",
+            "plan_id": "371962121",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2428392-INC-DBA-FYE-HEALTH-CARE-BENEFITS-PLAN_2428392-INC-DBA-FYE-HEALTH-CARE-BENEFITS-PLAN_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "825049511",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "411863217",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_24Restore-Inc_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE/UBH",
+            "plan_id": "453674027",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "452358552",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "802861086",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2BROS-RESOURCES-LLC_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC EPO Gated INN Only - ASO",
+            "plan_id": "455537084",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Charter-EPO-1169557_SH_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Navigate-EPO-1189865_S8_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ]
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "455537084",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2FOLD-COLLECTIVE-LLC_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "UMR, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "2J SUPPLY GROUP HEALTH BENEFIT PLAN",
+            "plan_id": "310707361",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_UNITEDHEALTHCARE-CHOICE-PLUS_0L_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United Healthcare Services, Inc.",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare EPO",
+            "plan_id": "460576505",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-EPO-1169555_A2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-EPO-1169549_C1_in-network-rates.json.gz"
+          }
+        ]
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "United Healthcare POS",
+            "plan_id": "460576505",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Upper-Peninsula-Michigan-1656891_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Acupuncture-Massage-Naturopath-4_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-Chiro-1_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Core-POS-1159400_A3_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Choice-Plus-POS-1008476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_Optum-Health-Behavioral-Services--OHBS--1018476_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-Healthcare-Services--Inc-_Third-Party-Administrator_OHPH-ST-3_C2_in-network-rates.json.gz"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_2J-TRANSPORTATION-LLC_United-Healthcare-POS_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "412135360",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "851873730",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "431655996",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ],
+        "allowed_amount_file": {
+          "description": "allowed amount file",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_3-GENERATIONS-INC_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+        }
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "810769587",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE/UBH",
+            "plan_id": "752950013",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      },
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE PLUS/UBH",
+            "plan_id": "752950013",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "reporting_entity_name": "United HealthCare Services",
+    "reporting_entity_type": "Third-Party Administrator",
+    "reporting_structure": [
+      {
+        "reporting_plans": [
+          {
+            "plan_name": "UHC CHOICE/UBH",
+            "plan_id": "455498472",
+            "plan_id_type": "EIN",
+            "plan_market_type": "group"
+          }
+        ],
+        "in_network_files": [
+          {
+            "description": "in-network files",
+            "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+          },
+          {
+            "description": "in-network CMC Transplant shared files",
+            "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+          }
+        ]
+      }
+    ]
   }
 ]

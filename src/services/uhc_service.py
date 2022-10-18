@@ -16,7 +16,7 @@ def fetch_uhc_employers():
         for index in range(len(employers)):
             if index == 100: break
             logger.writeLogs("Fetching Employer Index: {}".format(index))
-            if "index" in employers[index]["name"]:
+            if "index.json" in employers[index]["name"]:
                 response = requests.get(employers[index]["downloadUrl"])
                 data.append(json.loads(response.text))
 
@@ -36,7 +36,7 @@ def search_by_type(type, text, employers):
     if type not in valid: return filtered
     for index in range(len(employers)):
         employer = employers[index]
-        property = employer["reporting_entity_name"] if type == 'name' else employer["reporting_structure"][0]["reporting_plans"][0]["plan_id"]
+        property = employer["reporting_structure"][0]["reporting_plans"][0]["plan_name"] if type == 'name' else employer["reporting_structure"][0]["reporting_plans"][0]["plan_id"]
         if str(text).lower() in str(property).lower():
             filtered.append(employer)
     return filtered
