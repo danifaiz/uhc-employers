@@ -1,4 +1,4 @@
-# Flask API to Fetch UHC Employers
+# Flask App to Fetch UHC Employers
 
 API structured to fetch and search employers by Name & EIN.
 
@@ -29,4 +29,4 @@ API structured to fetch and search employers by Name & EIN.
 ## APIs
 
 1. http://127.0.0.1:5000/api/v1/employer/sync ( First fetch and saves data from UHC Transparency Site )
-2. http://127.0.0.1:5000/api/v1/employer?search=united&type=name ( Ability to Search by Type: ein or name )
+2. http://127.0.0.1:5000/api/v1/employer?search=united&type=name ( Ability to Search by Type: `ein` or `name` )
